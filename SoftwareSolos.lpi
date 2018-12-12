@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="10"/>
+    <PathDelim Value="\"/>
+    <General>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="SoftwareSolos"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <Icon Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="1">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+    </RequiredPackages>
+    <Units Count="35">
+      <Unit0>
+        <Filename Value="SoftwareSolos.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit2"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="unit3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmEsquema_Volume_por_Peso"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit3"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="unit4.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmIndicesFisicos_solo_2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit4"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unit5.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmUmidade"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit5"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="unit6.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPeso_especifico_aparente_soloNatural"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit6"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="unit7.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPeso_especifico_aparente_soloSaturado"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit7"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="unit8.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPeso_especifico_aparente_soloSubmerso"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit8"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="unit9.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPeso_especifico_aparente_soloSeco"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="unit10.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPeso_Especifico_Real"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="unit11.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmDensidade_Relativa_dasParticulas"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit11"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="unit12.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPesoEspecificoDaAgua"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit12"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="unit13.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmIndice_vazios"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit13"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="unit14.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPorosidade"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit14"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="unit15.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGrau_Saturacao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit15"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="unit16.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmRelacoes_entreIndices"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit16"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="unit17.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmTabelaReumo"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit17"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="unit18.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGranulometri"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit18"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="unit19.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPeneiramentoNBR7181"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit19"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="unit20.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPeneiramentoNBR7181_MassaTotal_AmostraSeca"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit20"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="unit21.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmNBR7181_PENEIRAS_50_2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit21"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="unit22.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmNBR7181_PENEIRAS_50_2_tabela"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit22"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="unit23.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmNBR7181_PENEIRAS_1_2_0_075_TABELA"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit23"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="unit24.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmNBR7181_PENEIRAS_1_2_0_075"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit24"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="unit25.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frm_diametro_maximo_ParticulasSuspensao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit25"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="unit26.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPlasticidade_consistencia"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit26"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="unit27.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmplasticidade"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit27"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="unit28.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLimite_consistencia"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit28"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="unit29.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLimite_liquidez"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit29"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="unit30.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLimite_plasticidade"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit30"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="unit31.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGrafico_plasticidade"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit31"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="unit32.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmIndice_consistencia"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit32"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="unit33.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGrau_Contracao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit33"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="unit34.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmLimite_contracao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit34"/>
+      </Unit34>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="SoftwareSolos"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="5">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+      <Item4>
+        <Name Value="EConvertError"/>
+      </Item4>
+      <Item5>
+        <Name Value="EGridException"/>
+      </Item5>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
